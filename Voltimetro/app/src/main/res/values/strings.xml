@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Voltímetro</string>
+
+    <string name="title_activity_bluetooth_devices">Conectar a dispositivo</string>
+    <string name="title_activity_main">Midiendo</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="example_string">Example</string>
+
+    <string name="card_main_title">Voltímetro</string>
+    <string name="card_main_title_body">Este voltímetro mide voltaje de corriente directa (DC) entre los valores de 0v a 60v.</string>
+    <string name="card_devices_title">Dispositivos vinculados</string>
+    <string name="card_devices_title_body">La siguiente lista muestra los dispositivos vinculados guardados en este dispositivo. Para conectar con el modulo Bluetooth de la tarjeta Arduino, debe vincularla primero en la configuración del dispositivo.</string>
+
+    <string name="status_device_bluetooth">Estado del adaptador Bluetooth</string>
+    <string name="details_bluetooth">Desconocido</string>
+    <string name="button_string_connect">Conectar</string>
+    <string name="button_string_test">Probar Gauge</string>
+    <string name="itemlist_mac_placeholder">Dirección MAC: </string>
+</resources>
